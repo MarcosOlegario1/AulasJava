@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Nathan Not
+ * @author leonardo.fodi
  */
 public class A1042 {
 

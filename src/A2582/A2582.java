@@ -9,9 +9,9 @@ import java.util.Scanner;
 
 /**
  *
- * @author Nathan Not
+ * @author Marcos.Olegario
  */
-public class A2582_nFunfa {
+public class A2582 {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

@@ -9,9 +9,9 @@ import java.util.Scanner;
 
 /**
  *
- * @author altieri_dalagnollo
+ * @author Marcos.Olegario
  */
-public class A1789_incompleto {
+public class A1789 {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

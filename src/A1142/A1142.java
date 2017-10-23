@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Nathan Not
+ * @author Marcos.Olegario   
  */
 public class A1142 {
 
